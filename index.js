@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 console.log(`
 Hello there! 👋 I'm Arvind, a passionate developer who loves turning coffee into code. ☕💻
 
