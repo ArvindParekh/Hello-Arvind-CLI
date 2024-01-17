@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "arvind",
   "bin": {
-    "hello-arvind": "./index.js"
+    "hello-arvind-cli": "./index.js"
   },
   "license": "ISC"
 }
